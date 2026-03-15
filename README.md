@@ -1,10 +1,10 @@
 # intelligent_course_vue
 
-## introduction
+## Introduction
 
-### innovative function implementation: 
+### Innovative Function Implementation: 
 Implement "one-click generation of course knowledge graph". After teachers upload course outlines, PPTs, or long text textbooks, the system calls the LLM API to automatically extract core knowledge points and initially construct hierarchical structures and association relationships (such as "prerequisite knowledge", "belonging to chapter", "detailed explanation", etc.).
-### visualization and interaction: 
+### Visualization and Interaction: 
 Implement the visualization display of the knowledge graph (ECharts, G6, and other libraries can be used). Support node clicking to view details, dragging and dropping for layout, and manual editing of nodes and relationships (as AI generation may not be perfect).
 
 ## Recommended IDE Setup
